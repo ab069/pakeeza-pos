@@ -1,0 +1,15 @@
+.dart_tool/
+.packages
+build/
+dist/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+.metadata
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.idea/
+*.iml
+*.log
+windows/flutter/ephemeral/
